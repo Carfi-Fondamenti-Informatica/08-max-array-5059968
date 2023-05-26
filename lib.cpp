@@ -1,7 +1,7 @@
 
 #include "libb.h"
-float massimo(float num[],int dim){
-    float max;
+int massimo(int num[],int dim){
+    int max;
         for (int i = 0; i < dim; i++) {
         if(num[i]>max){
             max=num[i];

@@ -1,2 +1,2 @@
 
-float massimo (float num [],int dim);
+int massimo (int num [],int dim);
